@@ -1,4 +1,8 @@
 pandas  
 matplotlib 
 nltk
+wordcloud
+sklearn
+numpy
+gensim
 
